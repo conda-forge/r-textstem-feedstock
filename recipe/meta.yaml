@@ -14,7 +14,7 @@ source:
 
 build:
   merge_build_host: True  # [win]
-  number: 2
+  number: 3
   noarch: generic
   rpaths:
     - lib/R/lib/
@@ -55,7 +55,7 @@ test:
 
 about:
   home: http://github.com/trinker/textstem
-  license: GPL-2
+  license: GPL-2.0-only
   summary: Tools that stem and lemmatize text.  Stemming is a process that removes endings such
     as affixes.  Lemmatization is the process of grouping inflected forms together as
     a single base form.
