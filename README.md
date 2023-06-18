@@ -1,11 +1,11 @@
-About r-textstem
-================
+About r-textstem-feedstock
+==========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-textstem-feedstock/blob/main/LICENSE.txt)
 
 Home: http://github.com/trinker/textstem
 
-Package license: GPL-2
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-textstem-feedstock/blob/main/LICENSE.txt)
+Package license: GPL-2.0-only
 
 Summary: Tools that stem and lemmatize text.  Stemming is a process that removes endings such as affixes.  Lemmatization is the process of grouping inflected forms together as a single base form.
 
